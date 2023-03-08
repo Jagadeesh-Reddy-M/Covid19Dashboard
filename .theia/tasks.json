@@ -1,0 +1,13 @@
+{
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "build",
+            "problemMatcher": [
+                "$eslint-compact"
+            ],
+            "group": "build",
+            "label": "build"
+        }
+    ]
+}
